@@ -24,7 +24,7 @@ To-Do
 
 ### Applications
 
-- [HACT-Net: THierarchical Graph Representations in Digital Pathology](https://github.com/histocartography/hact-net)
+- [HACT-Net: Hierarchical Graph Representations in Digital Pathology](https://github.com/histocartography/hact-net)
 - [TransPath](https://link.springer.com/chapter/10.1007/978-3-030-87237-3_18)
 - [UNet](https://lmb.informatik.uni-freiburg.de/people/ronneber/u-net/)
 - [UNet++](https://arxiv.org/pdf/1807.10165.pdf)
